@@ -1,0 +1,15 @@
+BEAUTY & WELLNESS DATA FINDINGS
+============================================================
+
+Total raw records: 17
+Clean records analyzed: 9
+Duplicate records: 0
+Products with brand information: 6
+Products with ingredient information: 7
+Products with Nutri-Score information: 5
+Products with Eco-Score information: 0
+
+KEY FINDINGS
+------------------------------------------------------------
+The dataset demonstrates the importance of data cleaning and quality assessment when working with public API data.
+Missing product attributes and inconsistent category tags indicate that additional preprocessing is required before advanced analysis.

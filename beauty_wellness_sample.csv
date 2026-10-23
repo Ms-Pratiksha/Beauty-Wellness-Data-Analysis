@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Product_Category,Product_Price,Rating,Skin_Type
+P001,Hydrating Face Cream,Skincare,499,4.5,Dry
+P002,Vitamin C Serum,Skincare,799,4.7,All
+P003,Herbal Shampoo,Haircare,399,4.2,All
+P004,Matte Lipstick,Makeup,599,4.3,All
+P005,Aloe Vera Gel,Skincare,299,4.6,Sensitive
+P006,Hair Repair Oil,Haircare,449,4.1,All
+P007,Sunscreen SPF 50,Skincare,899,4.8,All
+P008,Face Wash,Skincare,349,4.4,Oily
+P009,Body Lotion,Skincare,499,4.2,Dry
+P010,Anti-Dandruff Shampoo,Haircare,429,4.0,All

@@ -1,0 +1,65 @@
+BEAUTY & WELLNESS
+INITIAL ANALYSIS PLAN
+============================================================
+
+BUSINESS QUESTIONS
+------------------------------------------------------------
+1. What are the most common beauty product categories?
+2. Which brands are most frequently represented?
+3. How complete is the ingredient information?
+4. What is the availability of Nutri-Score information?
+5. What product attributes have the highest amount of missing data?
+6. How can product categories be standardized for analysis?
+7. What additional data is required for customer and market-level analysis?
+8. Can product attributes be used to develop a future recommendation system?
+
+VARIABLES FOR ANALYSIS
+------------------------------------------------------------
+Product Identifier: code
+Product Name: product_name
+Brand: brands
+Category: categories_tags
+Ingredients: ingredients_text
+Nutri-Score: nutriscore_grade
+Eco-Score: ecoscore_tags
+
+PLANNED EDA
+------------------------------------------------------------
+• Frequency analysis of product brands
+• Category distribution analysis
+• Missing-value percentage analysis
+• Ingredient availability analysis
+• Nutri-Score availability analysis
+• Eco-Score availability analysis
+• Duplicate record detection
+• Product attribute completeness analysis
+
+DATA CLEANING PLAN
+------------------------------------------------------------
+• Remove records without product names
+• Remove duplicate product records
+• Handle missing brand values
+• Handle missing ingredient values
+• Standardize category names
+• Remove irrelevant category tags
+• Standardize text fields
+• Convert categorical values into consistent formats
+• Document all missing-value decisions
+
+FUTURE MACHINE LEARNING
+------------------------------------------------------------
+• Product recommendation
+• Customer segmentation
+• Product category classification
+• Review sentiment analysis
+• Product popularity prediction
+
+DATASET LIMITATIONS
+------------------------------------------------------------
+• Small number of usable records
+• High amount of missing Eco-Score information
+• Incomplete Nutri-Score information
+• Missing brand information for some products
+• Incomplete ingredient information
+• Inconsistent category tags
+• Dataset may not represent the complete beauty market
